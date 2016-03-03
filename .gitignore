@@ -1,0 +1,13 @@
+bin/
+obj/
+res/
+reserz/
+build/
+
+*.cbp
+*.layout
+*.depend
+*.cbTemp
+
+*.xcf
+*.zip
